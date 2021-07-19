@@ -1,4 +1,4 @@
-#Focus of the course
+# Focus of the course
 -the planning and implementation of secure and reliable info
 and comms tech systems for small and medium enterprises.
 
