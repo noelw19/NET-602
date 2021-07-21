@@ -38,4 +38,21 @@ Forest is a container of all AD Objects
 Domains - contain objects such as users, computers OU's
 Trees - more than 1 domain in a forest creates a tree.
 
+## Trees
+1. Parent child domain relationships form a domain tree.
+2. Domains are a tree joined by transitive trust
+3. A tree is a contiguous namespace.
+4. trust flows throughout the domains within a tree.
+
+A tree is more than one domain connected through transitive trust.
+
+## Forest
+1. Domain trees can be joined at the root to form a domain forest.
+2. the root domains are joined via a transitive trust.
+3. Every domain in a forerst implicitly trusts every other.
+
+
+## Organisational Unit
+
+## Groups
 
