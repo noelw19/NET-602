@@ -20,4 +20,6 @@ pass: Thepasswordis42
 >| DNS | 8.8.8.8 |
 >| DNS2 | 127.0.0.1 |
 
+have currently finished promoting the server to DC and have completed the dhcp config.....
 
+## WHAT NOW?!
