@@ -53,6 +53,21 @@ A tree is more than one domain connected through transitive trust.
 
 
 ## Organisational Unit
+#### OUs are not security principals!!
+Ou's contain an Access Control List which can be edited according to the current OU's needs.
 
 ## Groups
+
+2 types of groups:
+1. Distribution group
+2. Security Group
+
+Group Scopes:
+1. Machine Local Groups
+2. Domain Local Group
+3. Global Groups
+4. Universal Group - used in forests
+
+if we want a user to access a resource it is easier to group the user using groups and editing the group settings to allow access to individuals within the group.
+
 
