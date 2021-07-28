@@ -32,4 +32,12 @@ firstly going to settings ipv4 settings and setting up a static ip address that 
 | Mask | 255.255.255.0 |
 |gateway | ServerAddr - 192.168.1.10 |
 | DNS |
-|preffered | 192.168.1.10 | 
+|preffered | 192.168.1.10 |
+
+Password for the user NWilliams is: P@ssword12
+
+# To do:
+setup sophos
+setup wsus
+setup hyperv 
+setup rsat
