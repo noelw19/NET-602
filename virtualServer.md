@@ -22,4 +22,14 @@ pass: Thepasswordis42
 
 have currently finished promoting the server to DC and have completed the dhcp config.....
 
-## WHAT NOW?!
+after i fully set up the server adding the above and then begin to setup the client computer with windows 10 pro so that the device is able to connect to a network and then by joining a domain on start up
+
+firstly going to settings ipv4 settings and setting up a static ip address that is within the server subnet range 
+
+| Name | Value |
+|----|----|
+| IP | 192.168.1.100 |
+| Mask | 255.255.255.0 |
+|gateway | ServerAddr - 192.168.1.10 |
+| DNS |
+|preffered | 192.168.1.10 | 
