@@ -41,3 +41,7 @@ setup sophos
 setup wsus
 setup hyperv 
 setup rsat
+
+#Sophos
+
+Gui is accessed through the web browser using the dc gatewat ip and the port that is being used.
